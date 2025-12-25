@@ -13,3 +13,6 @@ Dieses Repository enthält den wichtigsten Code für mein KI-Projekt zur Erkennu
   - `realtime_inference.py`: Live-Demo & FPS-Messung.
 - `models/`: Enthält die trainierte `best.pt`.
 - `data.yaml`: Klassen-Definitionen.
+
+**Demo-Video**
+https://iubhfs-my.sharepoint.com/:v:/g/personal/finn_thomsen_iu-study_org/IQCfOFHYVnVjQK2NlH7HJofsARKLaYU1PofbY4w6_dIg-Ek?e=HjUaEB
